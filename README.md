@@ -1,2 +1,2 @@
 pandas technic
-1. ohlv  1min to 1day  using pandas resample()
+1. convert 1 min ohlc into 1 day  using pandas resample()
