@@ -15,6 +15,7 @@ pandas technic
 
 
 2. pandas 범위 행 삭제 
+   
    iris2 = iris.drop(labels=range(40, 45), axis=0)
 
 
