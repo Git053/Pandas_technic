@@ -19,5 +19,9 @@ pandas technic
    iris2 = iris.drop(labels=range(40, 45), axis=0)
 
 
+3. colab 자료 업로드 실행 
+   cd "/content/drive/MyDrive/data/GameBot"
+   !pip install -r requirements.txt
+
 
 
